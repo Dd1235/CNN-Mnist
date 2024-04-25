@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains a PyTorch implementation of a Convolutional Neural Network (CNN) for classifying handwritten digits from the MNIST dataset. The model aims to demonstrate effective practices in building and evaluating CNNs using PyTorch. The project includes a single Python script, `main.py`, which integrates model training, evaluation, and metric reporting.
+This repository contains a simple PyTorch implementation of a Convolutional Neural Network (CNN) for classifying handwritten digits from the MNIST dataset. The project includes a single notebook, `main.ipynb`, which integrates model training, evaluation, and metric reporting.
 
 ## Model Architecture
 
